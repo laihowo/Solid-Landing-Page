@@ -1,7 +1,11 @@
 {
   "name": "landingpage-react-template",
   "private": true,
+<<<<<<< HEAD
   "homepage": "React-Landing-Page-Template/build",
+=======
+  "homepage": "https://laihowo.github.io/React-Landing-Page-Template/build",
+>>>>>>> e4e22044da60a68b4c18d306f2e1a0e9d962ac1b
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
