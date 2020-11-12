@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/React-Landing-Page-Template/build/static/css/main.69eda509.chunk.css",
-    "main.js": "/React-Landing-Page-Template/build/static/js/main.10d1c4ec.chunk.js",
-    "main.js.map": "/React-Landing-Page-Template/build/static/js/main.10d1c4ec.chunk.js.map",
-    "runtime-main.js": "/React-Landing-Page-Template/build/static/js/runtime-main.9cf5608a.js",
-    "runtime-main.js.map": "/React-Landing-Page-Template/build/static/js/runtime-main.9cf5608a.js.map",
-    "static/js/2.ef9b312c.chunk.js": "/React-Landing-Page-Template/build/static/js/2.ef9b312c.chunk.js",
-    "static/js/2.ef9b312c.chunk.js.map": "/React-Landing-Page-Template/build/static/js/2.ef9b312c.chunk.js.map",
-    "index.html": "/React-Landing-Page-Template/build/index.html",
-    "precache-manifest.3e9ec7144f2714872d25fdb3c39db610.js": "/React-Landing-Page-Template/build/precache-manifest.3e9ec7144f2714872d25fdb3c39db610.js",
-    "service-worker.js": "/React-Landing-Page-Template/build/service-worker.js",
-    "static/css/main.69eda509.chunk.css.map": "/React-Landing-Page-Template/build/static/css/main.69eda509.chunk.css.map",
-    "static/js/2.ef9b312c.chunk.js.LICENSE.txt": "/React-Landing-Page-Template/build/static/js/2.ef9b312c.chunk.js.LICENSE.txt"
+    "main.css": "/Solid-Landing-Page/build/static/css/main.69eda509.chunk.css",
+    "main.js": "/Solid-Landing-Page/build/static/js/main.70a01db8.chunk.js",
+    "main.js.map": "/Solid-Landing-Page/build/static/js/main.70a01db8.chunk.js.map",
+    "runtime-main.js": "/Solid-Landing-Page/build/static/js/runtime-main.fab5419e.js",
+    "runtime-main.js.map": "/Solid-Landing-Page/build/static/js/runtime-main.fab5419e.js.map",
+    "static/js/2.ef9b312c.chunk.js": "/Solid-Landing-Page/build/static/js/2.ef9b312c.chunk.js",
+    "static/js/2.ef9b312c.chunk.js.map": "/Solid-Landing-Page/build/static/js/2.ef9b312c.chunk.js.map",
+    "index.html": "/Solid-Landing-Page/build/index.html",
+    "precache-manifest.1d8a61447e5b17a46837f27cbadb3939.js": "/Solid-Landing-Page/build/precache-manifest.1d8a61447e5b17a46837f27cbadb3939.js",
+    "service-worker.js": "/Solid-Landing-Page/build/service-worker.js",
+    "static/css/main.69eda509.chunk.css.map": "/Solid-Landing-Page/build/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.ef9b312c.chunk.js.LICENSE.txt": "/Solid-Landing-Page/build/static/js/2.ef9b312c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9cf5608a.js",
+    "static/js/runtime-main.fab5419e.js",
     "static/js/2.ef9b312c.chunk.js",
     "static/css/main.69eda509.chunk.css",
-    "static/js/main.10d1c4ec.chunk.js"
+    "static/js/main.70a01db8.chunk.js"
   ]
 }
