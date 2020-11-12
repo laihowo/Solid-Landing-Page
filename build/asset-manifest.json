@@ -1,23 +1,14 @@
 {
   "files": {
     "main.css": "/React-Landing-Page-Template/build/static/css/main.69eda509.chunk.css",
-<<<<<<< HEAD
     "main.js": "/React-Landing-Page-Template/build/static/js/main.23cda396.chunk.js",
     "main.js.map": "/React-Landing-Page-Template/build/static/js/main.23cda396.chunk.js.map",
-=======
-    "main.js": "/React-Landing-Page-Template/build/static/js/main.6fdda7d0.chunk.js",
-    "main.js.map": "/React-Landing-Page-Template/build/static/js/main.6fdda7d0.chunk.js.map",
->>>>>>> e4e22044da60a68b4c18d306f2e1a0e9d962ac1b
     "runtime-main.js": "/React-Landing-Page-Template/build/static/js/runtime-main.9cf5608a.js",
     "runtime-main.js.map": "/React-Landing-Page-Template/build/static/js/runtime-main.9cf5608a.js.map",
     "static/js/2.ef9b312c.chunk.js": "/React-Landing-Page-Template/build/static/js/2.ef9b312c.chunk.js",
     "static/js/2.ef9b312c.chunk.js.map": "/React-Landing-Page-Template/build/static/js/2.ef9b312c.chunk.js.map",
     "index.html": "/React-Landing-Page-Template/build/index.html",
-<<<<<<< HEAD
     "precache-manifest.b605e55fcb46a178740dda5e8e7bf6ca.js": "/React-Landing-Page-Template/build/precache-manifest.b605e55fcb46a178740dda5e8e7bf6ca.js",
-=======
-    "precache-manifest.b38ccbdea55b447e095f3d7d09edb67f.js": "/React-Landing-Page-Template/build/precache-manifest.b38ccbdea55b447e095f3d7d09edb67f.js",
->>>>>>> e4e22044da60a68b4c18d306f2e1a0e9d962ac1b
     "service-worker.js": "/React-Landing-Page-Template/build/service-worker.js",
     "static/css/main.69eda509.chunk.css.map": "/React-Landing-Page-Template/build/static/css/main.69eda509.chunk.css.map",
     "static/js/2.ef9b312c.chunk.js.LICENSE.txt": "/React-Landing-Page-Template/build/static/js/2.ef9b312c.chunk.js.LICENSE.txt"
@@ -26,10 +17,6 @@
     "static/js/runtime-main.9cf5608a.js",
     "static/js/2.ef9b312c.chunk.js",
     "static/css/main.69eda509.chunk.css",
-<<<<<<< HEAD
     "static/js/main.23cda396.chunk.js"
-=======
-    "static/js/main.6fdda7d0.chunk.js"
->>>>>>> e4e22044da60a68b4c18d306f2e1a0e9d962ac1b
   ]
 }
