@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/build/static/css/main.69eda509.chunk.css",
-    "main.js": "/build/static/js/main.ebed9233.chunk.js",
-    "main.js.map": "/build/static/js/main.ebed9233.chunk.js.map",
-    "runtime-main.js": "/build/static/js/runtime-main.a4705379.js",
-    "runtime-main.js.map": "/build/static/js/runtime-main.a4705379.js.map",
-    "static/js/2.ef9b312c.chunk.js": "/build/static/js/2.ef9b312c.chunk.js",
-    "static/js/2.ef9b312c.chunk.js.map": "/build/static/js/2.ef9b312c.chunk.js.map",
-    "index.html": "/build/index.html",
-    "precache-manifest.3019a31908737ec9f36905be083b0409.js": "/build/precache-manifest.3019a31908737ec9f36905be083b0409.js",
-    "service-worker.js": "/build/service-worker.js",
-    "static/css/main.69eda509.chunk.css.map": "/build/static/css/main.69eda509.chunk.css.map",
-    "static/js/2.ef9b312c.chunk.js.LICENSE.txt": "/build/static/js/2.ef9b312c.chunk.js.LICENSE.txt"
+    "main.css": "/React-Landing-Page-Template/build/static/css/main.69eda509.chunk.css",
+    "main.js": "/React-Landing-Page-Template/build/static/js/main.6fdda7d0.chunk.js",
+    "main.js.map": "/React-Landing-Page-Template/build/static/js/main.6fdda7d0.chunk.js.map",
+    "runtime-main.js": "/React-Landing-Page-Template/build/static/js/runtime-main.9cf5608a.js",
+    "runtime-main.js.map": "/React-Landing-Page-Template/build/static/js/runtime-main.9cf5608a.js.map",
+    "static/js/2.ef9b312c.chunk.js": "/React-Landing-Page-Template/build/static/js/2.ef9b312c.chunk.js",
+    "static/js/2.ef9b312c.chunk.js.map": "/React-Landing-Page-Template/build/static/js/2.ef9b312c.chunk.js.map",
+    "index.html": "/React-Landing-Page-Template/build/index.html",
+    "precache-manifest.b38ccbdea55b447e095f3d7d09edb67f.js": "/React-Landing-Page-Template/build/precache-manifest.b38ccbdea55b447e095f3d7d09edb67f.js",
+    "service-worker.js": "/React-Landing-Page-Template/build/service-worker.js",
+    "static/css/main.69eda509.chunk.css.map": "/React-Landing-Page-Template/build/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.ef9b312c.chunk.js.LICENSE.txt": "/React-Landing-Page-Template/build/static/js/2.ef9b312c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a4705379.js",
+    "static/js/runtime-main.9cf5608a.js",
     "static/js/2.ef9b312c.chunk.js",
     "static/css/main.69eda509.chunk.css",
-    "static/js/main.ebed9233.chunk.js"
+    "static/js/main.6fdda7d0.chunk.js"
   ]
 }
