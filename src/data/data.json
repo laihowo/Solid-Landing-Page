@@ -114,7 +114,7 @@
     },
     "Features": [{
             "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
+            "title": "Comment",
             "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
         },
         {
